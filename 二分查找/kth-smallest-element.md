@@ -26,11 +26,11 @@ class Solution {
 对于Arrays.sort()的原理，网上众说纷纭，这里提供两篇博客参考[博文1](https://www.cnblogs.com/baichunyu/p/11935995.html)、[博文2](https://blog.csdn.net/zhupanlinch/article/details/104832542?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)。
 
 
-此思路的时间复杂度主要由排序算法构成，该矩阵一共有N^2^个元素，所以时间复杂度为O(N^2^logN)。
+此思路的时间复杂度主要由排序算法构成，该矩阵一共有N^2^个元素，所以时间复杂度为O(N^2^*logN)。
 
 #### 二、二分查找
 二分查找有两种搜索方式：一是按索引进行搜索，二是按值的范围进行搜索。
-- 按索引进行搜索适用于有序数组，比如找出一个有序数组中的某个具体值，通过
+- 按索引进行搜索适用于有序数组，比如找出一个有序数组中的某个具体值，通
 常是对半缩小索引来进行查找
 - 按值的范围进行搜索适用于无序数组，找到一个特殊值作为搜索基准，例如[No.287寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)用的就是这个思路
 

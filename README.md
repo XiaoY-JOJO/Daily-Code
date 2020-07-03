@@ -4,12 +4,12 @@
 ### Blog
 
 **简介**：肖毅的IT奇妙探险
-核心内容是Java源码解析，并发编程，LeetCode专题，后续也会更新秋招面经等，提供各位远方朋友参考，欢迎互相交流。
++ 核心内容是Java源码解析，并发编程，LeetCode专题，后续也会更新秋招面经等，提供各位远方朋友参考，欢迎互相交流。
 + [肖毅的IT奇妙探险](https://xiaoy-jojo.github.io/)
 
 
 ### Guide
-此项目每天会按时更新LeetCode每日一题的题解思路，直接点击表中链接即可访问。每题有对应的原题编号，以及题目类型，根据题解思路将其归放到相应专题的目录下，直接通过专题类型进行刷题也是一种不错的方式。
+此项目每天会按时更新LeetCode每日一题的题解思路(Java实现)，直接点击表中链接即可访问。每题有对应的原题编号，以及题目类型，根据题解思路将其归放到相应专题的目录下，直接通过专题类型进行刷题也是一种不错的方式。
 
 ### LeetCode题解
 
@@ -18,6 +18,7 @@
 
 | 日期| 题名  | Tag | 力扣编号 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | -------- |
-| 0701 | [最长重复子数组](https://github.com/meibin08/free-programming-books/issues/77) | `动态规划` 、`滑动窗口`| NO.718 |
-| 0702 | [有序矩阵中第K小的元素](https://github.com/XiaoY-JOJO/Daily-Code/二分查找/kth-smallest-element) | `排序`、二分查找` | NO.378 |
+| 0701 | [最长重复子数组](https://github.com/meibin08/free-programming-books/issues/77) | `$\color{#1E90FF}{动态规划}$
+` `$\color{#1E90FF}{滑动窗口}$`| NO.718 |
+| 0702 | [有序矩阵中第K小的元素](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/kth-smallest-element.md) | `$\color{#1E90FF}{排序}$` `$\color{#1E90FF}{二分查找}$` | NO.378 |
 

@@ -23,3 +23,4 @@
 | 0703 | [有序数组转换为二叉搜索树](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E6%A0%91/ArrayToTree.md) | `树` `二分查找` | No.108 |
 | 0704 | [最长有效括号](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E6%A0%88/longest-valid-parentheses.md) | `动态规划` `栈` | No.32 |
 | 0705 | [通配符匹配](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/wildcard-matching.md) | `动态规划` `贪心` | No.44 |
+| 0706 | [不同路径](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/paths.md) | `动态规划`  | No.63 |

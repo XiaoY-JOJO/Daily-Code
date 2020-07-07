@@ -18,6 +18,10 @@
 
 | 日期| 题名  | Tag | 力扣编号 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | -------- |
-| 0701 | [最长重复子数组](https://github.com/meibin08/free-programming-books/issues/77) | `动态规划` `滑动窗口`| NO.718 |
-| 0702 | [有序矩阵中第K小的元素](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/kth-smallest-element.md) | `排序` `二分查找` | NO.378 |
+| 0701 | [最长重复子数组](https://github.com/meibin08/free-programming-books/issues/77) | `动态规划` `滑动窗口`| No.718 |
+| 0702 | [有序矩阵中第K小的元素](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/kth-smallest-element.md) | `排序` `二分查找` | No.378 |
+| 0703 | [有序数组转换为二叉搜索树](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E6%A0%91/ArrayToTree.md) | `树` `二分查找` | No.108 |
+| 0704 | [最长有效括号](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E6%A0%88/longest-valid-parentheses.md) | `动态规划` `栈` | No.32 |
+| 0705 | [通配符匹配](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/wildcard-matching.md) | `动态规划` `贪心` | No.44 |
+| 0706 | [不同路径](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/paths.md) | `动态规划`  | No.63 |
 

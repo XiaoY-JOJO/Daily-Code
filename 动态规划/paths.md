@@ -43,11 +43,16 @@ public int uniquePathsWithObstacles(int[][] obstacleGrid) {
     int width = obstacleGrid[0].length;
     int[] dp = new int[width];
     dp[0] = 1;
+
+	//按照每一行作为一个整体来操作
     for (int[] row : obstacleGrid) {
         for (int j = 0; j < width; j++) {
             if (row[j] == 1)
                 dp[j] = 0;
             else if (j > 0)
+				
+				//当前行第j个元素的值 =
+				//上一行中第j个元素的值 + 当前行第j-1个元素的值
                 dp[j] += dp[j - 1];
         }
     }

@@ -26,3 +26,7 @@
 | 0706 | [不同路径](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/paths.md) | `动态规划` | No.63 |
 | 0707 | [路径和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E9%80%92%E5%BD%92/amount_path.md) | `递归` `DFS` | No.112 |
 | 0708 | [跳水板](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4/paddel.md) | `` | 面试题16.12 |
+| 0709 | [恢复空格](https://leetcode-cn.com/problems/re-space-lcci/) | `动态规划` | 面试题17.13 |
+| 0710 | [股票买卖](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/votes.md) | `动态规划` | No.309 |
+| 0711 | [元素个数](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/rightSmaller.md) | `` | No.315 |
+| 0712 | [地下城](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/DNF.md) | `动态规划` | No.174|

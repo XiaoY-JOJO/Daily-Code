@@ -30,3 +30,11 @@
 | 0710 | [股票买卖](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/votes.md) | `动态规划` | No.309 |
 | 0711 | [元素个数](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/rightSmaller.md) | `` | No.315 |
 | 0712 | [地下城](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/DNF.md) | `动态规划` | No.174|
+| 0713 | [两个数组的交集](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/combination.md) | `哈希表` | No.350|
+| 0714 | [三角形最小路径和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/trangle.md) | `动态规划` `滚动数组`| No.120|
+| 0715 | [不同的二叉搜索树](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/numoftrees.md) | `动态规划` | No.96|
+| 0716 | [判断二分图](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/BFS_DFS/bina-graph.md) | `DFS` | No.785|
+| 0717 | [插入搜索位置](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/insert.md) | `二分查找` | No.35|
+| 0718 | [交错字符串](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/threeStrings.md) | `动态规划` | No.97|
+| 0719 | [戳气球](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/balloon.md) | `动态规划` `滚动数组`| No.312|
+| 0720 | [两数之和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `哈希表` `双指针` | No.167|

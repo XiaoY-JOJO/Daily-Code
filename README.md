@@ -38,4 +38,5 @@
 | 0718 | [交错字符串](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/threeStrings.md) | `动态规划` | No.97|
 | 0719 | [戳气球](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/balloon.md) | `动态规划` `滚动数组`| No.312|
 | 0720 | [两数之和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `哈希表` `双指针` | No.167|
-| 0720 | [两数之和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `哈希表` `双指针` | No.167|
+| 0721 | [两数之和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `哈希表` `双指针` | No.167|
+| 0722 | [两数之和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `哈希表` `双指针` | No.167|

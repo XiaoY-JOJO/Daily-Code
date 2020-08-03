@@ -38,13 +38,13 @@
 | 0718 | [交错字符串](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/threeStrings.md) | `动态规划` | No.97|
 | 0719 | [戳气球](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/balloon.md) | `动态规划` `滚动数组`| No.312|
 | 0720 | [两数之和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `哈希表` `双指针` | No.167|
-| 0721 | [不同的二叉搜索树2](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `递归`  | No.95|
-| 0722 | [旋转数组的最小值](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `二分查找` | No.154|
-| 0723 | [最小路径和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `动态规划` | No.64|
-| 0724 | [除数博弈](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `数学归纳` | No.1025|
-| 0725 | [分割数组的最大值](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `动态规划` `二分查找`| No.410|
-| 0726 | [判断子序列](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `双指针`| No.392|
-| 0727 | [二叉树深度](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `递归`| No.104|
-| 0728 | [最长递增路径](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `动态规划`| No.329|
-| 0730 | [整数拆分](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `动态规划`| No.343|
-| 0731 | [魔术索引](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%93%88%E5%B8%8C%E8%A1%A8/twonums2.md) | `二分查找`| 面试题08.03|
+| 0721 | [不同的二叉搜索树2](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E9%80%92%E5%BD%92/searchtree.md) | `递归`  | No.95|
+| 0722 | [旋转数组的最小值](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/smallest.md) | `二分查找` | No.154|
+| 0723 | [最小路径和](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/min-path-num.md) | `动态规划` | No.64|
+| 0724 | [除数博弈](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4/divisor-game.md) | `数学归纳` | No.1025|
+| 0725 | [分割数组的最大值](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/split-array-largest-sum.md) | `动态规划` `二分查找`| No.410|
+| 0726 | [判断子序列](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/392.md) | `双指针`| No.392|
+| 0727 | [二叉树深度](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E9%80%92%E5%BD%92/104.md) | `递归`| No.104|
+| 0728 | [最长递增路径](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/matrixpath.md) | `动态规划`| No.329|
+| 0730 | [整数拆分](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/343.md) | `动态规划`| No.343|
+| 0731 | [魔术索引](https://github.com/XiaoY-JOJO/Daily-Code/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/803.md) | `二分查找`| 面试题08.03|
